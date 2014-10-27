@@ -1,12 +1,12 @@
 /**
- * Calculadora para operaÁıes simples de
- * soma, subtraÁ„o, divis„o, multiplicaÁ„o e potencia.
- * Possivel passar a express„o por argumento com essa sintaxe
- * 2 (+) 2, ou inserir a express„o pela interface de usuario
- * 2 + 2, a entrada pelo parametro sÛ aceita expressıes de
+ * Calculadora para opera√ß√µes simples de
+ * soma, subtra√ß√£o, divis√£o, multiplica√ß√£o e potencia.
+ * Possivel passar a express√£o por argumento com essa sintaxe
+ * 2 (+) 2, ou inserir a express√£o pela interface de usuario
+ * 2 + 2, a entrada pelo parametro s√≥ aceita express√µes de
  * potencia 2 \\* 2, mas pela interface de usario funcionalidade
  * sem problema 2 ^ 2.
- * CÛdigo totalmente livre para uso, licensa MIT.
+ * C√≥digo totalmente livre para uso, licen√ßa MIT.
  * @author Jackson Garcia Pinheiro Junior - jacksongarciajr@gmail.com
 */
 
